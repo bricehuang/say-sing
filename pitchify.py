@@ -1,4 +1,5 @@
 import ast
+import math
 from audio_master import OUT_DIR, VOICES
 
 PITCHES = [440 * (2**(1./12))**i for i in xrange(-28, 4)] # F2 - C5
@@ -33,6 +34,13 @@ def get_matching_sounds(pitch, good_sounds):
 	result.sort(key = lambda (pitch, sqamp, sound_and_voice): sqamp, reverse=True)
 	return result
 
+def format_as_diff_from_pitch(base_pitch, sound):
+	# type: (float, List[Tuple[float, float, Tuple[str, str]]]) -> List[Tuple[float, float, Tuple[str, str]]]
+	def _diff_from_pitch_in_cents(base_pitch, pitch):
+		return 1200.*math.log(pitch/base_pitch)/math.log(2)
+	pitch, sqamp, sound_and_voice = sound
+	return (_diff_from_pitch_in_cents(pitch, base_pitch), sqamp, sound_and_voice)
+
 if __name__ == '__main__':
 	master_good_sounds = construct_master()
 	with open(OUT_DIR+'master.out', 'w') as f:
@@ -44,7 +52,7 @@ if __name__ == '__main__':
 		output.append(pitch_name+': ' + str(pitch) + '\n')
 		matching_sounds = get_matching_sounds(pitch, master_good_sounds)
 		for matching_sound in matching_sounds:
-			output.append(str(matching_sound)+'\n')
+			output.append(str(format_as_diff_from_pitch(pitch, matching_sound))+'\n')
 		output.append('\n')
 	with open('pitches.out', 'w') as f:
 		f.writelines(output)
