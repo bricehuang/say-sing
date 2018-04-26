@@ -1,1 +1,29 @@
-say nenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 && say nenenenenenenenenenenene --voice=Satu --rate=720 && say lililililililililililililililililililililililililili --voice=Ellen --rate=720 && say nenenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 && say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 && say nininininininininininininininininininini --voice=Damayanti --rate=720 && sleep 0.6 && say nenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 && say nenenenenenenenenenenene --voice=Satu --rate=720 && say lililililililililililililililililililililililililili --voice=Ellen --rate=720 && say nenenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 && say wiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwi --voice=Veena --rate=720 && say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 && sleep 0.6 && say nenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 && say nenenenenenenenenenenene --voice=Satu --rate=720 && say tetetetetetetetetetetetetete --voice=Yuna --rate=720 && say nonononononononononononononononononono --voice=Yuna --rate=720 && say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 && say nininininininininininininininininininini --voice=Damayanti --rate=720 && say lililililililililililililililililililililililililili --voice=Ellen --rate=720 && sleep 0.6 && say lililililililililililililililililililililili --voice=Yuna --rate=720 && say lilililililili --voice=Yuna --rate=720 && say nonononononononononononononononononono --voice=Yuna --rate=720 && say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 && say wiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwi --voice=Veena --rate=720 && say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 && sleep 0.6 
+say nenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say nenenenenenenenenenenene --voice=Satu --rate=720 &&
+say lililililililililililililililililililililililililili --voice=Ellen --rate=720 &&
+say nenenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
+say nininininininininininininininininininini --voice=Damayanti --rate=720 &&
+sleep 0.6 &&
+say nenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say nenenenenenenenenenenene --voice=Satu --rate=720 &&
+say lililililililililililililililililililililililililili --voice=Ellen --rate=720 &&
+say nenenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say wiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwi --voice=Veena --rate=720 &&
+say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
+sleep 0.6 &&
+say nenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say nenenenenenenenenenenene --voice=Satu --rate=720 &&
+say tetetetetetetetetetetetetete --voice=Yuna --rate=720 &&
+say nonononononononononononononononononono --voice=Yuna --rate=720 &&
+say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
+say nininininininininininininininininininini --voice=Damayanti --rate=720 &&
+say lililililililililililililililililililililililililili --voice=Ellen --rate=720 &&
+sleep 0.6 &&
+say lililililililililililililililililililililili --voice=Yuna --rate=720 &&
+say lilililililili --voice=Yuna --rate=720 &&
+say nonononononononononononononononononono --voice=Yuna --rate=720 &&
+say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
+say wiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwi --voice=Veena --rate=720 &&
+say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
+sleep 0.6 

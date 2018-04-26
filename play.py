@@ -44,7 +44,7 @@ def get_commands_for_song(notes_and_lengths, bpm):
 def concat_commands(commands):
 	ans = commands[0]
 	for command in commands[1:]:
-		ans += "&& " + command
+		ans += "&&\n" + command
 	return ans
 
 def parse_input(filename):
