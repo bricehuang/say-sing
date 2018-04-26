@@ -1,5 +1,5 @@
 from audio import produce_soundfile
-from play import SOUND_BY_PITCHES
+from play import SOUND_BY_PITCHES, REPS_PER_SECOND_STORE
 import wave
 
 TEST_PITCH_DIR = './test_pitch/'
@@ -17,5 +17,5 @@ if __name__ == '__main__':
 	repeats_per_second = {
 		note: _get_repeats_per_second(note) for note in SOUND_BY_PITCHES.iterkeys()
 	}
-	with open('repeats_per_second.txt', 'w') as f:
+	with open(REPS_PER_SECOND_STORE, 'w') as f:
 		f.writelines([str(repeats_per_second)])

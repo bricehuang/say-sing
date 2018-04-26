@@ -5,38 +5,25 @@ import time
 import wave
 from audio import produce_soundfile
 
-SOUND_BY_PITCHES = {
-	'F2': ('la', 'Juan'),
-	'F#2': ('wa', 'Xander'),
-	'G2': ('vo', 'Maged'),
-	'Ab2': ('de', 'Xander'),
-	'A2': ('wo', 'Yuri'),
-	'Bb2': ('na', 'Yuri'),
-	'B2': ('ni', 'Diego'),
-	'C3': ('ra', 'Diego'),
-	'C#3': ('bo', 'Luca'),
-	'D3': ('mu', 'Paulina'),
-	'Eb3': ('je', 'Satu'),
-	'E3': ('ne', 'Satu'),
-	'F3': ('le', 'Laura'), # ?
-	'F#3': ('li', 'Ellen'),
-	'G3': ('li', 'Alice'),
-	'Ab3': ('ni', 'Damayanti'),
-	'A3': ('wu', 'Luciana'),
-	'Bb3': ('gi', 'Sara'),
-	'B3': ('wi', 'Veena'),
-	'C4': ('mi', 'Luciana'), # flat
-	'C#4': ('no', 'Yuna'),
-	'D4': ('li', 'Yuna'), # flat
-	'Eb4': ('nu', 'Melina'),
-	'E4': ('te', 'Yuna'), # derp
-	'F4': ('pi', 'Yuna'),
-}
+PITCH_MAP = './config/pitch_map.config'
+def retrieve_sound_by_pitches():
+	lines = [line.rstrip('\n\r') for line in open(PITCH_MAP)]
+	def _parse_line(line):
+		note, sound, voice = line.split(' ')
+		return (note, (sound, voice))
+	return {
+		note: sound_and_voice
+		for note, sound_and_voice in
+		[_parse_line(line) for line in lines]
+	}
+SOUND_BY_PITCHES = retrieve_sound_by_pitches()
+
 REPS_PER_SECOND = {}
-REPS_PER_SECOND_STORE = './repeats_per_second.txt'
+REPS_PER_SECOND_STORE = './config/repeats_per_second.config'
 if __name__ == '__main__':
 	with open(REPS_PER_SECOND_STORE, 'r') as f:
 		REPS_PER_SECOND = ast.literal_eval(f.readline())
+
 IN_FILE = './in.txt'
 OUT_FILE = './out.txt'
 
@@ -71,12 +58,8 @@ def parse_input(filename):
 	return ([_parse_line(line) for line in lines], tempo)
 
 if __name__ == '__main__':
-	in_filename = IN_FILE
-	out_filename = OUT_FILE
-	if len(sys.argv)>1:
-		in_filename = sys.argv[1]
-	if len(sys.argv)>2:
-		out_filename = sys.argv[2]
+	in_filename = sys.argv[1] if len(sys.argv)>1 else IN_FILE
+	out_filename = sys.argv[2] if len(sys.argv)>2 else OUT_FILE
 	song, tempo = parse_input(in_filename)
 	command = concat_commands(get_commands_for_song(song, tempo))
 	with open(out_filename, 'w') as f:
