@@ -1,5 +1,6 @@
 import os.path
 import subprocess
+import sys
 
 OUT_DIR = './outfiles/'
 VOICES = [
@@ -53,8 +54,10 @@ VOICES = [
 ]
 
 if __name__ == '__main__':
+    force = len(sys.argv) > 1 and (sys.argv[1]=='--force')
     for voice in VOICES:
         print voice
-        if not os.path.isfile(OUT_DIR + voice + '.out'): # if an outfile doesn't exist for this voice
+        # if an outfile doesn't exist for this voice, or force option being used
+        if not os.path.isfile(OUT_DIR + voice + '.out') or force:
             subprocess.call(['python', 'audio.py', voice])
     subprocess.call(['python', 'pitchify.py'])

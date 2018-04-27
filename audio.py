@@ -131,10 +131,13 @@ def consolidate_with_overtones(freqs_and_amps):
     freqs_and_amps_with_overtones = []
     while len(working_freqs) > 0:
         base_freq, base_amp = working_freqs.pop(0)
-        overtone_amp_sum = sum(
-            other_amp for other_freq, other_amp in working_freqs
-            if _is_overtone((base_freq, base_amp), (other_freq, other_amp))
-        )
+        overtones = [
+            other_freq_and_amp for other_freq_and_amp in working_freqs
+            if _is_overtone((base_freq, base_amp), other_freq_and_amp)
+        ]
+        for overtone in overtones:
+            working_freqs.remove(overtone)
+        overtone_amp_sum = sum(amp for freq, amp in overtones)
         if base_amp + overtone_amp_sum > POST_OVERTONE_CONSOLIDATION_SIGNIFICANCE_CUTOFF:
             freqs_and_amps_with_overtones.append((base_freq, base_amp + overtone_amp_sum))
     return freqs_and_amps_with_overtones
