@@ -4,7 +4,9 @@ This app sings songs using only the `say` command from Mac Terminal, leveraging 
 ```
 say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720
 ```
-approximates the pitch A3.  Given a melody, this app composes a combination of `say` commands that sings this melody.
+approximates the pitch A3.  By varying the syllable and voice, it is possible to get a wide range of pitches.
+
+Given a melody, this app composes a combination of `say` commands that sings this melody.
 
 ## Getting Started
 
@@ -16,15 +18,15 @@ The main usage is
 ```
 python play.py [in_file] [out_file]
 ```
-This writes to `out_file` a `say` command that sings the melody from `in_file`.
+This writes to `out_file` a `say` command that sings the melody from `in_file`.  Default in and out files are `in.txt` and `out.txt`.
 For example:
 ```
 python play.py sample_in/birthday2.txt sample_out/birthday2.txt
 eval $(cat sample_out/birthday2.txt)
 ```
-writes a `say` command for Happy Birthday to `sample_out/birthday2.txt` and executes this command.
+writes a `say` command sequence for Happy Birthday to `sample_out/birthday2.txt` and executes these commands.
 
-See `sample_in/` for examples of input formatting.
+The first line in each input file is the tempo in BPM, and each subsequent line is a note and duration in beats.  Currently supported notes are F2-F4.  See `sample_in/` for examples of input formatting.
 
 ### Changing the Pitch Map
 
