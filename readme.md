@@ -30,7 +30,7 @@ The first line in each input file is the tempo in BPM, and each subsequent line 
 
 ### Changing the Pitch Map
 
-The map from pitch to `(syllable, voice)` is stored in `config/pitch_map.config`.  Candidate (syllable, voice) combinations for each pitch are stored in `pitches.out`, in the format
+The map from pitch to `(syllable, voice)` is stored in `config/pitch_map.config`.  Candidate `(syllable, voice)` combinations for each pitch are stored in `pitches.out`, in the format
 ```
 (pitch_diff, purity, (syllable, voice))
 ```
