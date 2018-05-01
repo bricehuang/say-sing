@@ -3,7 +3,7 @@ say jejejejejejejejeje --voice=Satu --rate=720 &&
 say lelelelelelelelelelelelelelelelele --voice=Laura --rate=720 &&
 say jejejejejejejejejejejejejejejejejeje --voice=Satu --rate=720 &&
 say nininininininininininininininininininini --voice=Damayanti --rate=720 &&
-say lilililililililililililililililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 sleep 0.6 &&
 say jejejejejejejejejejejejejejejejejejejejejejejejejejeje --voice=Satu --rate=720 &&
 say jejejejejejejejeje --voice=Satu --rate=720 &&
@@ -17,7 +17,7 @@ say jejejejejejejejeje --voice=Satu --rate=720 &&
 say nununununununununununununununu --voice=Melina --rate=720 &&
 say mimimimimimimimimimimimimimimimimimimimimimi --voice=Luciana --rate=720 &&
 say nininininininininininininininininininini --voice=Damayanti --rate=720 &&
-say lilililililililililililililililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say lelelelelelelelelelelelelelelelele --voice=Laura --rate=720 &&
 sleep 0.6 &&
 say nonononononononononononononononononononononononononononono --voice=Yuna --rate=720 &&

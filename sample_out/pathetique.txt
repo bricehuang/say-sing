@@ -1,14 +1,14 @@
 say mumumumumumumumumu --voice=Paulina --rate=720 &&
-say lililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say wuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
 say gigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
 say mimimimimimimimimi --voice=Luciana --rate=720 &&
 say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
 say gigigigigigigigigi --voice=Sara --rate=720 &&
-say lililililililililililililililililililililililililililililililililililililili --voice=Alice --rate=720 &&
-say lililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
+say aaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say lilililililililililili --voice=Ellen --rate=720 &&
-say lililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say wuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
 say gigigigigigigigigi --voice=Sara --rate=720 &&
 say wuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
@@ -25,14 +25,14 @@ say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
 say gigigigigigigigigi --voice=Sara --rate=720 &&
 say mimimimimimimimimi --voice=Luciana --rate=720 &&
 say lililililililililililililililililililililililili --voice=Yuna --rate=720 &&
-say lilililililililililililililililililili --voice=Alice --rate=720 &&
-say lililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
+say aaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say wuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
 say gigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
 say mimimimimimimimimi --voice=Luciana --rate=720 &&
 say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
 say gigigigigigigigigi --voice=Sara --rate=720 &&
-say lililililililililililililililililililililililililililililililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 sleep 0.5 &&
 say mimimimimimimimimi --voice=Luciana --rate=720 &&
 say lililililili --voice=Yuna --rate=720 &&
@@ -41,8 +41,8 @@ say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
 say gigigigigigigigigi --voice=Sara --rate=720 &&
 say mimimimimimimimimi --voice=Luciana --rate=720 &&
 say lililililililililililililililililililililililili --voice=Yuna --rate=720 &&
-say lilililililililililililililililililili --voice=Alice --rate=720 &&
-say lililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
+say aaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say wuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
 say gigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
 say gigigigigigigigigi --voice=Sara --rate=720 &&
@@ -50,5 +50,5 @@ say mimimimimimimimimi --voice=Luciana --rate=720 &&
 say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
 say wuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
 say gigigigigigigigigi --voice=Sara --rate=720 &&
-say lililililililililililililililililililililililililililililililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 sleep 0.5 

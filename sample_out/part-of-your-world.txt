@@ -3,10 +3,10 @@ say gigigigigigigigigigigi --voice=Sara --rate=720 &&
 say nininininininininini --voice=Damayanti --rate=720 &&
 say nininininininininininininininininininininininininininininini --voice=Damayanti --rate=720 &&
 say lelelelelelelele --voice=Laura --rate=720 &&
-say lilililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say nininininininininini --voice=Damayanti --rate=720 &&
 say gigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
-say lilililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say nininininininininini --voice=Damayanti --rate=720 &&
 say gigigigigigigigigigigi --voice=Sara --rate=720 &&
 say lelelelelelelelelelelelele --voice=Laura --rate=720 &&
@@ -17,10 +17,10 @@ say gigigigigigigigigigigi --voice=Sara --rate=720 &&
 say nininininininininini --voice=Damayanti --rate=720 &&
 say nininininininininininininininininininininininininininininini --voice=Damayanti --rate=720 &&
 say lelelelelelelele --voice=Laura --rate=720 &&
-say lilililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say nininininininininini --voice=Damayanti --rate=720 &&
 say gigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
-say lilililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say nininininininininini --voice=Damayanti --rate=720 &&
 say gigigigigigigigigigigi --voice=Sara --rate=720 &&
 say jejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejeje --voice=Satu --rate=720 &&
@@ -31,11 +31,11 @@ say nininininininininini --voice=Damayanti --rate=720 &&
 say ninininininininininininininini --voice=Damayanti --rate=720 &&
 sleep 0.444444444444 &&
 say lelelelelelelele --voice=Laura --rate=720 &&
-say lilililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say nininininininininini --voice=Damayanti --rate=720 &&
 say gigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
 sleep 0.444444444444 &&
-say lilililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say nininininininininini --voice=Damayanti --rate=720 &&
 say gigigigigigigigigigigi --voice=Sara --rate=720 &&
 say nononononononononononononono --voice=Yuna --rate=720 &&
@@ -55,7 +55,7 @@ say ninininininini --voice=Damayanti --rate=720 &&
 say mimimimimimimimi --voice=Luciana --rate=720 &&
 say gigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
 say lelelelelelelele --voice=Laura --rate=720 &&
-say lilililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say nininininininininini --voice=Damayanti --rate=720 &&
 say gigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
 sleep 0.444444444444 &&
@@ -95,7 +95,7 @@ say ninininininininininininininini --voice=Damayanti --rate=720 &&
 sleep 0.444444444444 &&
 say gigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
 sleep 0.888888888889 &&
-say lilililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say nininininininininini --voice=Damayanti --rate=720 &&
 say gigigigigigigigigigigi --voice=Sara --rate=720 &&
 say mimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimimi --voice=Luciana --rate=720 &&
@@ -125,5 +125,5 @@ say nunununununununununununununununununununununununununununununununununu --voice
 sleep 0.444444444444 &&
 say jejejejejejejejeje --voice=Satu --rate=720 &&
 say nininininininininini --voice=Damayanti --rate=720 &&
-say lilililililililililili --voice=Alice --rate=720 &&
+say aaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
 say ninininininininininininininininininininininininininininininininininininininininininininininininininininininininininini --voice=Damayanti --rate=720 
