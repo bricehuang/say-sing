@@ -1,0 +1,64 @@
+say wuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
+say aaaaaaaaa --voice=Paulina --rate=720 &&
+say lelelelelelelelelelele --voice=Laura --rate=720 &&
+say aaaaaaaaa --voice=Paulina --rate=720 &&
+say wuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
+say gigigigigigigi --voice=Sara --rate=720 &&
+say mimimimimimimimimimimimimimi --voice=Luciana --rate=720 &&
+sleep 0.2 &&
+say wuwuwuwuwuwu --voice=Luciana --rate=720 &&
+say aaaaaaaaa --voice=Paulina --rate=720 &&
+say lelelelelele --voice=Laura --rate=720 &&
+say nenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say mumumumumumumu --voice=Paulina --rate=720 &&
+say nenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say lelelelelele --voice=Laura --rate=720 &&
+say rarararararararararararara --voice=Diego --rate=720 &&
+sleep 0.2 &&
+say mumumumumumumu --voice=Paulina --rate=720 &&
+say rararararara --voice=Diego --rate=720 &&
+say nananananana --voice=Yuri --rate=720 &&
+say wowowowowowowowo --voice=Yuri --rate=720 &&
+say rararararara --voice=Diego --rate=720 &&
+say lelelelelelelelelelele --voice=Laura --rate=720 &&
+say wuwuwuwuwuwu --voice=Luciana --rate=720 &&
+say aaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
+say lilililililililili --voice=Ellen --rate=720 &&
+say aaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
+say mumumumumumumu --voice=Paulina --rate=720 &&
+say lelelelelelelelelelele --voice=Laura --rate=720 &&
+say nenenenenenenene --voice=Satu --rate=720 &&
+say nenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say lelelelelele --voice=Laura --rate=720 &&
+say aaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
+sleep 0.2 &&
+say wuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
+say aaaaaaaaa --voice=Paulina --rate=720 &&
+say lelelelelelelelelelele --voice=Laura --rate=720 &&
+say aaaaaaaaa --voice=Paulina --rate=720 &&
+say wuwuwuwuwuwuwuwuwuwuwuwu --voice=Luciana --rate=720 &&
+say gigigigigigigi --voice=Sara --rate=720 &&
+say mimimimimimimimimimimimimimi --voice=Luciana --rate=720 &&
+sleep 0.2 &&
+say wuwuwuwuwuwu --voice=Luciana --rate=720 &&
+say aaaaaaaaa --voice=Paulina --rate=720 &&
+say lelelelelele --voice=Laura --rate=720 &&
+say nenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say mumumumumumumu --voice=Paulina --rate=720 &&
+say nenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say lelelelelele --voice=Laura --rate=720 &&
+say rarararararararararararara --voice=Diego --rate=720 &&
+sleep 0.2 &&
+say mumumumumumumu --voice=Paulina --rate=720 &&
+say rararararara --voice=Diego --rate=720 &&
+say nananananana --voice=Yuri --rate=720 &&
+say wowowowowowowowo --voice=Yuri --rate=720 &&
+say rararararara --voice=Diego --rate=720 &&
+say lelelelelelelelelelele --voice=Laura --rate=720 &&
+say wuwuwuwuwuwu --voice=Luciana --rate=720 &&
+say aaaaaaaaa --voice=Paulina --rate=720 &&
+say lilililililililili --voice=Ellen --rate=720 &&
+say aaaaaaaaa --voice=Paulina --rate=720 &&
+say gigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
+say nenenenenenenene --voice=Satu --rate=720 &&
+say lelelelelelelelelelelelelelelelele --voice=Laura --rate=720 
