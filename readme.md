@@ -6,7 +6,7 @@ say wuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu --voi
 ```
 approximates the pitch A3.  By varying the syllable and voice, it is possible to get a wide range of pitches.
 
-Given a melody, this app composes a combination of `say` commands that sings this melody.
+Given a melody, this app composes a combination of `say` commands that sings this melody.  Example outputs can be found in `sample_out/`.
 
 ## Getting Started
 

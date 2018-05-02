@@ -1,29 +1,5 @@
-import ast
-import subprocess
 import sys
-import time
-import wave
-from audio import produce_soundfile
-
-PITCH_MAP = './config/pitch_map.config'
-def retrieve_sound_by_pitches():
-    lines = [line.rstrip('\n\r') for line in open(PITCH_MAP)]
-    def _parse_line(line):
-        tokens = line.split(' ')
-        note, sound, voice = tokens[:3]
-        return (note, (sound, voice))
-    return {
-        note: sound_and_voice
-        for note, sound_and_voice in
-        [_parse_line(line) for line in lines]
-    }
-SOUND_BY_PITCHES = retrieve_sound_by_pitches()
-
-REPS_PER_SECOND = {}
-REPS_PER_SECOND_STORE = './config/repeats_per_second.config'
-if __name__ == '__main__':
-    with open(REPS_PER_SECOND_STORE, 'r') as f:
-        REPS_PER_SECOND = ast.literal_eval(f.readline())
+from test_pitch import SOUND_BY_PITCHES, REPS_PER_SECOND
 
 IN_FILE = './in.txt'
 OUT_FILE = './out.txt'
