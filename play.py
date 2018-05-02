@@ -9,7 +9,8 @@ PITCH_MAP = './config/pitch_map.config'
 def retrieve_sound_by_pitches():
     lines = [line.rstrip('\n\r') for line in open(PITCH_MAP)]
     def _parse_line(line):
-        note, sound, voice = line.split(' ')
+        tokens = line.split(' ')
+        note, sound, voice = tokens[:3]
         return (note, (sound, voice))
     return {
         note: sound_and_voice
