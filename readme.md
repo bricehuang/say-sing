@@ -38,17 +38,17 @@ where `pitch_diff` is the difference from the true note in cents, and `purity` i
 
 After changing the pitch map, run
 ```
-python test_pitch.py
+python regenerate_configs.py
 ```
 to regenerate auto-generated configs before running `play.py`.
 
 ### Methodology for Generating Pitch Data
 
 For each `(syllable, voice)` combination, I extract a waveform from the `say` soundfile and Fourier transform it, then extract the largest frequencies.  The data-analysis scripts are as follows:
-* `audio.py`: processes all `(syllable, voice)` combinations for a given voice, and prints `(syllable, voice, frequency, goodness)` results to `outfiles/[voice].out`.  Usage: `python audio.py [voice]`.
-* `pitchify.py`: consolidates the outfiles from `audio.py`.  Finds candidate `(syllable, voice)` combinations for each pitch and prints them to `pitches.out`.
-* `audio_master.py`: dispatches `audio.py` for each voice, then dispatches `pitchify.py`.
-* `audio_test.py`: util script that plays a `say` command with given syllable and voice.  Usage: `python audio.py [syllable] [voice]`.
+* `generate_voice_data.py`: processes all `(syllable, voice)` combinations for a given voice, and prints `(syllable, voice, frequency, goodness)` results to `outfiles/[voice].out`.  Usage: `python generate_voice_data.py [voice]`.
+* `consolidate_voice_data.py`: consolidates the outfiles from `generate_voice_data.py`.  Finds candidate `(syllable, voice)` combinations for each pitch and prints them to `pitches.out`.
+* `data_script_master.py`: dispatches `generate_voice_data.py` for each voice, then dispatches `consolidate_voice_data.py`.
+* `play_test_pitch.py`: util script that plays a `say` command with given syllable and voice.  Usage: `python audio.py [syllable] [voice]`.
 
 ## License
 

@@ -1,6 +1,6 @@
 import ast
 import math
-from audio_master import OUT_DIR, VOICES
+from data_script_master import OUT_DIR, VOICES
 
 PITCHES = [440 * (2**(1./12))**i for i in xrange(-28, 4)] # F2 - C5
 TOLERANCE = 2**(20./1200) # 20 cents

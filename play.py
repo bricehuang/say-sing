@@ -1,5 +1,5 @@
 import sys
-from test_pitch import SOUND_BY_PITCHES, REPS_PER_SECOND
+from regenerate_configs import SOUND_BY_PITCHES, REPS_PER_SECOND
 
 IN_FILE = './in.txt'
 OUT_FILE = './out.txt'

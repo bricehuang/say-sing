@@ -59,5 +59,5 @@ if __name__ == '__main__':
         print voice
         # if an outfile doesn't exist for this voice, or force option being used
         if not os.path.isfile(OUT_DIR + voice + '.out') or force:
-            subprocess.call(['python', 'audio.py', voice])
-    subprocess.call(['python', 'pitchify.py'])
+            subprocess.call(['python', 'generate_voice_data.py', voice])
+    subprocess.call(['python', 'consolidate_voice_data.py'])

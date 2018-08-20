@@ -4,7 +4,7 @@ import sys
 import wave
 
 CONSONANTS = ['', 'p', 'b', 't', 'd', 'k', 'g', 'm', 'n', 'r', 'f', 'v', 'th', 'j', 's', 'z', 'sh', 'zh', 'h', 'l', 'w', 'y']
-VOWELS = ['a', 'e', 'i', 'o', 'u']
+VOWELS = ['a', 'e', 'i', 'o', 'u','aa','ee','ii','oo','uu']
 REPEATS = 100
 RATE = 720
 SOUNDFILE = 'out.wav'
@@ -156,13 +156,13 @@ def run_all_sounds(voice):
     for vowel in VOWELS:
         for consonant in CONSONANTS:
             sound = consonant + vowel
-            try:
-                frequencies_and_sqamps = compute_main_frequencies(sound, REPEATS, voice, RATE)
-            except:
-                print ('failed: ' + voice + ' ' + sound)
-            else:
-                for frequency, sqamp in frequencies_and_sqamps:
-                    good_sounds.append((frequency, sqamp, (sound, voice)))
+            # try:
+            frequencies_and_sqamps = compute_main_frequencies(sound, REPEATS, voice, RATE)
+            # except:
+            #     print ('failed: ' + voice + ' ' + sound)
+            # else:
+            for frequency, sqamp in frequencies_and_sqamps:
+                good_sounds.append((frequency, sqamp, (sound, voice)))
     return good_sounds
 
 if __name__ == '__main__':
