@@ -1,10 +1,12 @@
+import numpy as np
 import struct
 import subprocess
 import sys
+import time
 import wave
 
 CONSONANTS = ['', 'p', 'b', 't', 'd', 'k', 'g', 'm', 'n', 'r', 'f', 'v', 'th', 'j', 's', 'z', 'sh', 'zh', 'h', 'l', 'w', 'y']
-VOWELS = ['a', 'e', 'i', 'o', 'u','aa','ee','ii','oo','uu']
+VOWELS = ['a', 'e', 'i', 'o', 'u', 'aa', 'ee', 'ii', 'oo', 'uu']
 REPEATS = 100
 RATE = 720
 SOUNDFILE = 'out.wav'
@@ -153,21 +155,34 @@ def compute_main_frequencies(sound, repeats, voice, rate):
 def run_all_sounds(voice):
     # type: (str) -> List[Tuple[float, float, Tuple[str, str]]]
     good_sounds = []
+    fails = []
     for vowel in VOWELS:
+        print vowel
         for consonant in CONSONANTS:
             sound = consonant + vowel
-            # try:
-            frequencies_and_sqamps = compute_main_frequencies(sound, REPEATS, voice, RATE)
-            # except:
-            #     print ('failed: ' + voice + ' ' + sound)
-            # else:
-            for frequency, sqamp in frequencies_and_sqamps:
-                good_sounds.append((frequency, sqamp, (sound, voice)))
-    return good_sounds
+            try:
+                frequencies_and_sqamps = compute_main_frequencies(sound, REPEATS, voice, RATE)
+            except Exception as err:
+                time.sleep(90) # cooldown, then try again
+                try:
+                    frequencies_and_sqamps = compute_main_frequencies(sound, REPEATS, voice, RATE)
+                except:
+                    fails.append(sound)
+                    print ('failed: ' + voice + ' ' + sound)
+                    print err
+                else:
+                    for frequency, sqamp in frequencies_and_sqamps:
+                        good_sounds.append((frequency, sqamp, (sound, voice)))
+            else:
+                for frequency, sqamp in frequencies_and_sqamps:
+                    good_sounds.append((frequency, sqamp, (sound, voice)))
+    return (good_sounds, fails)
 
 if __name__ == '__main__':
     voice = sys.argv[1]
-    good_sounds = run_all_sounds(voice)
+    good_sounds, fails = run_all_sounds(voice)
     with open(OUT_DIR + voice + '.out', 'w') as f:
         f.writelines([str(good_sounds)])
+    with open(OUT_DIR + voice + '_fails.out', 'w') as f:
+        f.writelines([str(fails)])
 

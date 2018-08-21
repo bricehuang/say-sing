@@ -16,12 +16,12 @@ This app should work out of the box, on a computer with Mac Terminal and Python 
 
 The main usage is
 ```
-python play.py [in_file] [out_file]
+python make_song.py [in_file] [out_file]
 ```
 This writes to `out_file` a `say` command that sings the melody from `in_file`.  Default in and out files are `in.txt` and `out.txt`.
 For example:
 ```
-python play.py sample_in/birthday.txt sample_out/birthday.txt
+python make_song.py sample_in/birthday.txt sample_out/birthday.txt
 eval $(cat sample_out/birthday.txt)
 ```
 writes a `say` command sequence for Happy Birthday to `sample_out/birthday.txt` and executes these commands.
@@ -40,7 +40,7 @@ After changing the pitch map, run
 ```
 python regenerate_configs.py
 ```
-to regenerate auto-generated configs before running `play.py`.
+to regenerate auto-generated configs before running `make_song.py`.
 
 ### Methodology for Generating Pitch Data
 

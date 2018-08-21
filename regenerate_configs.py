@@ -1,4 +1,4 @@
-from audio import produce_soundfile
+from generate_voice_data import produce_soundfile
 import ast
 import wave
 import os

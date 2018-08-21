@@ -1,0 +1,25 @@
+say lalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalala --voice=Juan --rate=720 &&
+say wawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawa --voice=Xander --rate=720 &&
+say rarararararararararararararararararararararararararararararararararararararararararara --voice=Xander --rate=720 &&
+say nunununununununununununununununununununununununununununununununununununununununununununununu --voice=Xander --rate=720 &&
+say wowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowo --voice=Yuri --rate=720 &&
+say nananananananananananananananananananananananananananananananananananananananananananananananananana --voice=Yuri --rate=720 &&
+say ninininininininininininininininininininininininininininininininininininininininininini --voice=Diego --rate=720 &&
+say rarararararararararararararararararararararararararararararararararararararararararararararararararararararararara --voice=Diego --rate=720 &&
+say bobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720 &&
+say mumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumumu --voice=Paulina --rate=720 &&
+say jejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejejeje --voice=Satu --rate=720 &&
+say nenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say lelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelele --voice=Laura --rate=720 &&
+say lililililililililililililililililililililililililililililililililililililililililililililililililililililililililililililililililililililililililililililili --voice=Ellen --rate=720 &&
+say aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720 &&
+say ninininininininininininininininininininininininininininininininininininininininininininininininininininininininininini --voice=Damayanti --rate=720 &&
+say wiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwi --voice=Ioana --rate=720 &&
+say gigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
+say wiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwiwi --voice=Veena --rate=720 &&
+say vuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuu --voice=Yuna --rate=720 &&
+say vuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvu --voice=Yuna --rate=720 &&
+say uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu --voice=Yuna --rate=720 &&
+say nununununununununununununununununununununununununununununununununununununununununununununu --voice=Melina --rate=720 &&
+say shishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishi --voice=Yuna --rate=720 &&
+say poopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoo --voice=Yuna --rate=720 
