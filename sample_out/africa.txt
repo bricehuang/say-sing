@@ -1,0 +1,104 @@
+sleep 0.142857142857 &&
+say lelelele --voice=Laura --rate=720 &&
+say lelelele --voice=Laura --rate=720 &&
+say lelelele --voice=Laura --rate=720 &&
+say lelelelelelelelelelelelelelelele --voice=Laura --rate=720 &&
+say lelelele --voice=Laura --rate=720 &&
+say lelelelelelelelelelelele --voice=Laura --rate=720 &&
+say aaaaaaaaaaaaa --voice=Paulina --rate=720 &&
+say wiwiwiwi --voice=Ioana --rate=720 &&
+say gigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
+sleep 0.571428571429 &&
+say mumumumumu --voice=Paulina --rate=720 &&
+say mumumumumumumumumumumumumumumu --voice=Paulina --rate=720 &&
+say jejejejejejejejeje --voice=Satu --rate=720 &&
+say lelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say jejejejejejejejejejejejeje --voice=Satu --rate=720 &&
+say jejejejejejejejeje --voice=Satu --rate=720 &&
+say mumumumumumumumumumu --voice=Paulina --rate=720 &&
+say rarararara --voice=Diego --rate=720 &&
+say rararararararararararararara --voice=Diego --rate=720 &&
+say rarararararararara --voice=Diego --rate=720 &&
+say nananananananana --voice=Yuri --rate=720 &&
+say mumumumumumumumumumumumumumumumumumumumumumumumumu --voice=Paulina --rate=720 &&
+say rarararara --voice=Diego --rate=720 &&
+say nananananananana --voice=Yuri --rate=720 &&
+say rararararararararararararararararara --voice=Diego --rate=720 &&
+sleep 0.571428571429 &&
+sleep 0.285714285714 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say lelelele --voice=Laura --rate=720 &&
+say lelelelelelelelelelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say aaaaaaa --voice=Paulina --rate=720 &&
+say wiwiwiwiwiwiwiwiwi --voice=Ioana --rate=720 &&
+say gigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
+sleep 0.571428571429 &&
+say mumumumumu --voice=Paulina --rate=720 &&
+say mumumumumumumumumumu --voice=Paulina --rate=720 &&
+say jejejejejejejejejejejejeje --voice=Satu --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say jejejeje --voice=Satu --rate=720 &&
+say jejejejejejejejejejejejeje --voice=Satu --rate=720 &&
+say mumumumumumumumumumu --voice=Paulina --rate=720 &&
+say rarararararararara --voice=Diego --rate=720 &&
+say rarararara --voice=Diego --rate=720 &&
+say rararararararararararararara --voice=Diego --rate=720 &&
+say nananananananana --voice=Yuri --rate=720 &&
+say mumumumumumumumumumumumumumumumumumumumumumumumumu --voice=Paulina --rate=720 &&
+say rarararara --voice=Diego --rate=720 &&
+say nananananananana --voice=Yuri --rate=720 &&
+say rararararararararararararararararara --voice=Diego --rate=720 &&
+sleep 0.571428571429 &&
+sleep 0.285714285714 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say lelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say lelelele --voice=Laura --rate=720 &&
+say aaaaaaaaaaaaa --voice=Paulina --rate=720 &&
+say wiwiwiwi --voice=Ioana --rate=720 &&
+say gigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
+sleep 0.571428571429 &&
+say mumumumumu --voice=Paulina --rate=720 &&
+say mumumumumu --voice=Paulina --rate=720 &&
+say mumumumumu --voice=Paulina --rate=720 &&
+say jejejejejejejejejejejejeje --voice=Satu --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say jejejeje --voice=Satu --rate=720 &&
+say jejejejejejejejeje --voice=Satu --rate=720 &&
+say mumumumumu --voice=Paulina --rate=720 &&
+say rararararararararararararararararara --voice=Diego --rate=720 &&
+sleep 0.142857142857 &&
+say nananana --voice=Yuri --rate=720 &&
+say rarararararararara --voice=Diego --rate=720 &&
+say nananananananana --voice=Yuri --rate=720 &&
+say mumumumumumumumumumumumumumumumumumumumumumumumumu --voice=Paulina --rate=720 &&
+say rarararara --voice=Diego --rate=720 &&
+say nananananananana --voice=Yuri --rate=720 &&
+say rararararararararararararararararara --voice=Diego --rate=720 &&
+sleep 0.571428571429 &&
+sleep 0.285714285714 &&
+say lelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say lelelelelelelele --voice=Laura --rate=720 &&
+say aaaaaaaaaaaaa --voice=Paulina --rate=720 &&
+say wiwiwiwiwiwiwiwiwi --voice=Ioana --rate=720 &&
+say gigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720 &&
+sleep 0.571428571429 &&
+say uuu --voice=Yuna --rate=720 &&
+say uuuuuuu --voice=Yuna --rate=720 &&
+say nununununununununununu --voice=Melina --rate=720 &&
+say poopoopoopoopoopoo --voice=Yuna --rate=720 &&
+say poopoopoo --voice=Yuna --rate=720 &&
+say nununununununu --voice=Melina --rate=720 &&
+say nununununununu --voice=Melina --rate=720 &&
+say uuu --voice=Yuna --rate=720 &&
+say nunununununununununununununununununununununu --voice=Melina --rate=720 

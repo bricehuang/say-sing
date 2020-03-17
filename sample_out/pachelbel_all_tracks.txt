@@ -1,0 +1,25 @@
+say bobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720 &&
+say nunununununununununununununununununununununununununu --voice=Xander --rate=720 &&
+say nananananananananananananananananananananananananananana --voice=Yuri --rate=720 &&
+say lalalalalalalalalalalalalalalalalalalalalala --voice=Juan --rate=720 &&
+say wawawawawawawawawawawawawawawawawawawawawawawa --voice=Xander --rate=720 &&
+say bobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720 &&
+say wawawawawawawawawawawawawawawawawawawawawawawa --voice=Xander --rate=720 &&
+say nunununununununununununununununununununununununununu --voice=Xander --rate=720 &&
+(say bobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720 & (sleep 0.3 && say poopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoo --voice=Yuna --rate=720)) &&
+(say nunununununununununununununununununununununununununu --voice=Xander --rate=720 & (sleep 0.3 && say nunununununununununununununununununununununununununu --voice=Melina --rate=720)) &&
+(say nananananananananananananananananananananananananananana --voice=Yuri --rate=720 & say vuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvu --voice=Yuna --rate=720) &&
+(say lalalalalalalalalalalalalalalalalalalalalala --voice=Juan --rate=720 & say vuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuu --voice=Yuna --rate=720) &&
+(say wawawawawawawawawawawawawawawawawawawawawawawa --voice=Xander --rate=720 & (sleep 0.3 && say gigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720)) &&
+(say bobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720 & (sleep 0.2 && say ninininininininininininininininininininininininininininininininini --voice=Damayanti --rate=720)) &&
+(say wawawawawawawawawawawawawawawawawawawawawawawa --voice=Xander --rate=720 & (sleep 0.3 && say gigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720)) &&
+(say nunununununununununununununununununununununununununu --voice=Xander --rate=720 & (sleep 0.3 && say vuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuu --voice=Yuna --rate=720)) &&
+(say bobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720 & (sleep 0.3 && say poopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoopoo --voice=Yuna --rate=720) & (sleep 0.3 && say vuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvu --voice=Yuna --rate=720)) &&
+(say nunununununununununununununununununununununununununu --voice=Xander --rate=720 & (sleep 0.3 && say nunununununununununununununununununununununununununu --voice=Melina --rate=720) & (sleep 0.3 && say vuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuu --voice=Yuna --rate=720)) &&
+(say nananananananananananananananananananananananananananana --voice=Yuri --rate=720 & say vuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvu --voice=Yuna --rate=720 & say gigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720) &&
+(say lalalalalalalalalalalalalalalalalalalalalala --voice=Juan --rate=720 & say vuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuu --voice=Yuna --rate=720 & say ninininininininininininininininininininininininininininininininini --voice=Damayanti --rate=720) &&
+(say wawawawawawawawawawawawawawawawawawawawawawawa --voice=Xander --rate=720 & (sleep 0.3 && say gigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720) & (sleep 0.3 && say lililililililililililililililililililililililililililililililililililililililililililili --voice=Ellen --rate=720)) &&
+(say bobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720 & (sleep 0.2 && say ninininininininininininininininininininininininininininininininini --voice=Damayanti --rate=720) & (sleep 0.2 && say lelelelelelelelelelelelelelelelelelelelelelelelelelelele --voice=Laura --rate=720)) &&
+(say wawawawawawawawawawawawawawawawawawawawawawawa --voice=Xander --rate=720 & (sleep 0.3 && say gigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720) & (sleep 0.3 && say lililililililililililililililililililililililililililililililililililililililililililili --voice=Ellen --rate=720)) &&
+(say nunununununununununununununununununununununununununu --voice=Xander --rate=720 & (sleep 0.3 && say vuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuuvuu --voice=Yuna --rate=720) & (sleep 0.3 && say jejejejejejejejejejejejejejejejejejejejejejejejejejejejejeje --voice=Satu --rate=720)) &&
+(say bobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720 & (sleep 0.2 && say vuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvu --voice=Yuna --rate=720) & (sleep 0.2 & say bobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720))

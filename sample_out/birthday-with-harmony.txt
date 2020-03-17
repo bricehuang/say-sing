@@ -1,0 +1,104 @@
+(
+	(sleep 0.25 && say jejejejejejejejejejejejejeje --voice=Satu --rate=720) &
+	say nunununununununununununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say jejejejeje --voice=Satu --rate=720) &
+	say nunununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say lelelelelelelelelelelelelelelelele --voice=Laura --rate=720) &
+	say bobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720
+) &&
+(
+	(sleep 0.25 && say jejejejejejejejejejejejejejejejejeje --voice=Satu --rate=720) &
+	say nununununununununununununununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say nininininininininininininininininininini --voice=Damayanti --rate=720) &
+	say nununununununununununununununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say aaaaaaaaaaaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720) &
+	(sleep 0.25 && say jejejejejejejejejejejejejejejejejeje --voice=Satu --rate=720)
+) &&
+sleep 0.6 &&
+(
+	(sleep 0.25 && say jejejejejejejejejejejejejeje --voice=Satu --rate=720) &
+	say nunununununununununununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say jejejejeje --voice=Satu --rate=720) &
+	say nunununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say lelelelelelelelelelelelelelelelele --voice=Laura --rate=720) &
+	say bobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720
+) &&
+(
+	(sleep 0.25 && say jejejejejejejejejejejejejejejejejeje --voice=Satu --rate=720) &
+	say nununununununununununununununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say gigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720) &
+	(sleep 0.25 && say jejejejejejejejejejejejejejejejejeje --voice=Satu --rate=720)
+) &&
+(
+	(sleep 0.25 && say nininininininininininininininininininini --voice=Damayanti --rate=720) &
+	say nununununununununununununununu --voice=Xander --rate=720
+) &&
+sleep 0.6 &&
+(
+	(sleep 0.25 && say jejejejejejejejejejejejejeje --voice=Satu --rate=720) &
+	say nunununununununununununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say jejejejeje --voice=Satu --rate=720) &
+	say nunununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say nununununununununununununununu --voice=Melina --rate=720) &
+	say nununununununununununununununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say vuuvuuvuuvuuvuuvuuvuuvuuvuuvuu --voice=Yuna --rate=720) &
+	say nununununununununununununununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say nininininininininininininininininininini --voice=Damayanti --rate=720) &
+	say nununununununununununununununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say aaaaaaaaaaaaaaaaaaaaaaaaaaaa --voice=Paulina --rate=720) &
+	(sleep 0.25 && say jejejejejejejejejejejejejejejejejeje --voice=Satu --rate=720)
+) &&
+(
+	(sleep 0.25 && say lelelelelelelelelelelelelelelelele --voice=Laura --rate=720) &
+	say bobobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720
+) &&
+sleep 0.6 &&
+(
+	(sleep 0.25 && say vuvuvuvuvuvuvuvuvuvuvuvuvuvuvu --voice=Yuna --rate=720) &
+	say bobobobobobobobobobobobobobobo --voice=Luca --rate=720
+) &&
+(
+	(sleep 0.25 && say vuvuvuvuvu --voice=Yuna --rate=720) &
+	say bobobobobo --voice=Luca --rate=720
+) &&
+(
+	(sleep 0.25 && say vuuvuuvuuvuuvuuvuuvuuvuuvuuvuu --voice=Yuna --rate=720) &
+	say nununununununununununununununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say nininininininininininininininininininini --voice=Damayanti --rate=720) &
+	say nununununununununununununununu --voice=Xander --rate=720
+) &&
+(
+	(sleep 0.25 && say gigigigigigigigigigigigigigigigigigigigigigi --voice=Sara --rate=720) &
+	(sleep 0.25 && say jejejejejejejejejejejejejejejejejeje --voice=Satu --rate=720)
+) &&
+(
+	(sleep 0.25 && say nininininininininininininininininininini --voice=Damayanti --rate=720) &
+	say nununununununununununununununu --voice=Xander --rate=720
+) &&
+sleep 0.6

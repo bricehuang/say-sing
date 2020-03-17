@@ -1,0 +1,21 @@
+say ninininininini --voice=Diego --rate=720 &&
+say nananana --voice=Yuri --rate=720 &&
+say ninininininininininininininininini --voice=Diego --rate=720 &&
+say lililililili --voice=Ellen --rate=720 &&
+say lilililililililililililililililililili --voice=Ellen --rate=720 &&
+say ninininininini --voice=Diego --rate=720 &&
+say nananana --voice=Yuri --rate=720 &&
+say ninininininininininininininininini --voice=Diego --rate=720 &&
+say ninininini --voice=Damayanti --rate=720 &&
+say lilililililililililililililililililililililililili --voice=Ellen --rate=720 &&
+say ninini --voice=Diego --rate=720 &&
+say ninini --voice=Diego --rate=720 &&
+say bobobobobobobobobobobobobobobobobobobo --voice=Luca --rate=720 &&
+say bobobobobo --voice=Luca --rate=720 &&
+say jejejeje --voice=Satu --rate=720 &&
+say nenenenenenenenenenenenenenenenenenenenenenene --voice=Satu --rate=720 &&
+say jejejeje --voice=Satu --rate=720 &&
+say bobobobobo --voice=Luca --rate=720 &&
+say ninininininininininininininininini --voice=Diego --rate=720 &&
+say bobobobobo --voice=Luca --rate=720 &&
+say nininininininininini --voice=Diego --rate=720 
