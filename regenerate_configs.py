@@ -55,5 +55,18 @@ def retrieve_reps_per_second():
             exit()
 REPS_PER_SECOND = retrieve_reps_per_second()
 
+DELAY_BY_PITCH_STORE = './config/delays.config'
+def retrieve_delay_by_pitch():
+    def _read_from_reps_per_second_store():
+        with open(DELAY_BY_PITCH_STORE, 'r') as f:
+            return ast.literal_eval(f.readline())
+    try:
+        return _read_from_reps_per_second_store()
+    except SyntaxError:
+        # reps_per_second.config is corrupted.  regenerate configs and try again.
+        print 'Failed.  Make sure stored delay by pitch map is correctly formatted.'
+        exit()
+DELAY_BY_PITCH = retrieve_delay_by_pitch()
+
 if __name__ == '__main__':
     regenerate_reps_per_second()
